@@ -8,7 +8,7 @@ run
 
 to crawl datasets. (modify related path name in save.py and metadata.py)
 
-Each dataset is a resource(gov_data.resource) which containing multiple csv files(gov_data.dataFile). 
+Each dataset is a resource(gov_data.resource) which contains multiple csv files(gov_data.dataFile). 
 
 ## 2. Feature Extraction
 
