@@ -17,7 +17,7 @@ Feature extraction has three steps:
 
 1. represent datasets in a list of resource objects (gov_data.resource).
 
-2. 1st pass to generate feature dictinary (preprocess.extract_gov_fdict)
+2. 1st pass to generate feature dictionary (preprocess.extract_gov_fdict)
 
 3. 2nd pass to generate histogram features, which depend on global information (preprocess.extract_gov_curated_features)
 
