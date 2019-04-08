@@ -20,7 +20,7 @@ Feature extraction has two steps:
 	example running in label_predict.py
 
 
-#Reference
+# Reference
 
 	@inproceedings{chen2018generating,
 	  title={Generating Schema Labels through Dataset Content Analysis},
